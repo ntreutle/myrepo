@@ -1,2 +1,2 @@
 # myrepo
-Repo for testinf
+Repo for testing
